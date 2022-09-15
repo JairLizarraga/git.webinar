@@ -1,6 +1,12 @@
 body {
-	background:  blue;
-	margin:  10px;
-	margin-right: 10px;
-	margin-left: 10px;
+	background:  yellow;
+}
+
+.text1 {
+	color: blue;
+}
+
+
+.text2 {
+	color: black;
 }
